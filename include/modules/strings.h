@@ -1,0 +1,2 @@
+
+void equivalentInt(int c);
