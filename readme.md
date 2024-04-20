@@ -2,7 +2,7 @@
 
 I have multiple cpp files linked by the header files. This repository demonstrates how to compile multiple C++ files into one executable.
 
-use the ```-I``` flag to include the header files. The header files are to be imported in the ```main.cpp``` file. The header files contain all the forward-declarated functions for the ```main()``` function to use. It's just the declaration, what about the function definitions? It's inside the ```src/*.cpp``` files!
+use the ```-I``` flag to include the header files. The header files are to be imported in the ```main.cpp``` file. The header files contain all the forward-declared functions for the ```main()``` function to use. It's just the declaration, what about the function definitions? It's inside the ```src/*.cpp``` files!
 
 Run the following command to compile.
 
